@@ -1,4 +1,4 @@
-[![MasterHead](https://99designs-blog.imgix.net/blog/wp-content/uploads/2019/03/daily_ui_008_404-e1552796316524.png?auto=format&q=60&fit=max&w=930)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://rishavchanda.io) 
 <h1 align="center">Hi 👋, I'm Nabz</h1>
 <h3 align="center">💀 Exploiting for fun, patching for survival.</h3>
 <img align ="right" alt="Hey, it's an image" width="400" src = "https://theintercept.com/wp-content/uploads/2015/09/IC-finger-robber-small-1sec.gif?fit=1200%2C600">
